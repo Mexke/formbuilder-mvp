@@ -14,7 +14,7 @@
     "react-dom": "18.2.0",
     "uuid": "9.0.0",
     "zod": "3.23.2",
-    "webdav": "3.0.8",
+    "webdav": "^2.13.0",
     "@mollie/api-client": "3.0.0"
   },
   "devDependencies": {

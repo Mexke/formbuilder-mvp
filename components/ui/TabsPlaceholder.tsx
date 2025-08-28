@@ -1,0 +1,1 @@
+export const Tabs = (p)=> (<div {...p}>{p.children}</div>); export const TabsContent = (p)=> (<div {...p}>{p.children}</div>); export const TabsList = Tabs; export const TabsTrigger = (p)=> (<button {...p}>{p.children}</button>);
